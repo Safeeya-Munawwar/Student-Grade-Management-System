@@ -126,6 +126,6 @@ Manages the list of students and their associated grades.
 
 ---
 
-## **Author**
+## Author
 **Shafiya Munawwar**  
-GitHub Profile: [Shafiya-Munawwar0036](https://github.com/Shafiya-Munawwar0036)
+[GitHub Profile](https://github.com/shafiya-munawwar0036)
