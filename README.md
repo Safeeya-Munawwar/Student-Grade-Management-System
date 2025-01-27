@@ -113,6 +113,11 @@ Manages the list of students and their associated grades.
 
 ---
 
+## Project Report
+```bash
+https://github.com/Shafiya-Munawwar0036/Student-Grade-Management-System/blob/main/Student%20Grade%20Management%20System%20Java%20Project.pdf
+```
+
 ## **Limitations and Future Enhancements**
 
 ### **Current Limitations**
