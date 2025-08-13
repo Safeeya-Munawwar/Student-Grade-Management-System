@@ -147,3 +147,7 @@ https://github.com/Shafiya-Munawwar0036/Student-Grade-Management-System/blob/mai
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
+
+---
+
+© 2024 Student Grade Management System | Built with ❤️ using Java 
